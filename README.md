@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌌 Cosmos: A Space Simulation
 
-# Run and deploy your AI Studio app
+A modular space simulation game built in public — Big Bang to heat death.
+Built with Google AI Studio + Gemini 3.1 Pro + Next.js + Canvas 2D.
 
-This contains everything you need to run your app locally.
+## Sessions
+- ✅ Session 1 — The Void & Big Bang
+- ✅ Session 2 — Particle Physics & Nebulas  
+- ✅ Session 3 — Restart Button & Gravity & Nebula Formation
+- 🔄 Session 4 — Stellar Ignition (next)
 
-View your app in AI Studio: https://ai.studio/apps/f53ce351-e007-44be-9464-6a75b626f737
+## Follow the build
+Medium: https://medium.com/@gaurawsingh
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Stack
+- Google AI Studio (Gemini 3.1 Pro Preview)
+- Next.js + TypeScript
+- HTML5 Canvas 2D
+- Tailwind CSS
